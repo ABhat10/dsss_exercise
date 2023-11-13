@@ -1,0 +1,9 @@
+Requirements:
+
+1) Git Installed
+2) Git repository
+3) Configured Git Identity:Set up the Git identity, including the username and email address.
+4) Branch Checked Out (for Pull): While pulling changes, it should be taken care that the branch is checked out where we wish to merge the incoming changes.
+5) Up-to-Date (for Push): Before pushing changes, ensure that the local branch is up-to-date with the remote branch. You can do this by pulling changes from the remote repository.
+6) Commits Staged (for Push):Before pushing the changes, one should make sure to stage and commit the changes locally and Push the changes to the remote repository.
+7) Authentication (for Push)
